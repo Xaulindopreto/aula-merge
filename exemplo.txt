@@ -2,3 +2,4 @@ olá, mundo!
 está é uma linha de exemplo.
 Tudo está funcionando perfeitamente.
 Esta é uma nova branch na linha main.
+Está é uma nova linha na branch freature.
