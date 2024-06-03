@@ -1,3 +1,4 @@
 olá, mundo!
 está é uma linha de exemplo.
 Tudo está funcionando perfeitamente.
+Está é uma nova linha na branch freature.
